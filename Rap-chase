@@ -157,6 +157,9 @@ rolex
 no
 pov
 gain
+more
+select
+all
 copy
 paste
 shop
@@ -167,4 +170,5 @@ motion
 loss
 last
 real
+java
 .
