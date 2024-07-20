@@ -155,7 +155,7 @@ what
 how 
 when 
 where
-sound thetool + app radar
+sound: thetool + app radar
 direction
 speaker
 blenders
